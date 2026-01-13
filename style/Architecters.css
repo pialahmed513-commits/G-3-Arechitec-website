@@ -144,6 +144,34 @@ main>section {
 }
 
 
+/* features-section-related-style*/
+
+#features-title-section {
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+
+.feature-card .features-title-section {
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.feature-card {
+    padding: 30px;
+    box-shadow: 0 4px 30px 0 rgb(236, 230, 230);
+    margin-bottom: 20px;
+    border-radius: 8px;
+    height: 171px;
+    width: 586px;
+}
+
+.features {
+    gap: 80px;
+}
+
+
 /* some-fact-style */
 
 .fact-container {
